@@ -1,48 +1,64 @@
 {
   "rss_info": [
-    {
-      "title": "少数派",
-      "url": "https://sspai.com/feed"
-    },
-    {
-      "title": "阮一封的网络日志",
-      "url": "http://feeds.feedburner.com/ruanyifeng"
-    },
-    {
-      "title": "酷壳 coolshell",
-      "url": "https://coolshell.cn/feed"
-    },
-    {
-      "title": "依云's Blog",
-      "url": "https://blog.lilydjwg.me/feed"
-    },
-    {
-      "title": "Winnie 散漫游",
-      "url": "https://winnielife.com/feed/"
-    },
-    {
-      "title": "Airing 的小屋",
-      "url": "https://me.ursb.me/feed"
-    },
-    {
-      "title": "少数派 matrix",
-      "url": "https://rsshub.app/sspai/matrix"
-    },
-    {
-      "title": "五月天微博",
-      "url": "https://rsshub.app/weibo/user/3365597502"
-    },
-    {
-      "title": "阿信微博",
-      "url": "https://rsshub.app/weibo/user/1265020392"
-    },
-    {
-      "title": "Product Hunt",
-      "url": "https://www.producthunt.com/feed"
-    },
-    {
-      "title": "I'm TualatriX",
-      "url": "https://imtx.me/feed/latest/"
-    }
+           {
+                    "title": "少数派",
+                    "url": "https://sspai.com/feed"
+                },
+                {
+                    "title": "上班不要看 NSFW 的 Youtube 视频",
+                    "url": "http://rsshub.app/youtube/channel/UCj_z-Zeqk8LfwVxx0MUdL-Q"
+                },
+                {
+                    "title": "PanSci 泛科學",
+                    "url": "https://pansci.asia/feed"
+                },
+                {
+                    "title": "JoemanStarCraft 的 Youtube 视频",
+                    "url": "http://rsshub.app/youtube/user/JoemanStarCraft"
+                },
+                {
+                    "title": "Engadget Simplified Chinese Summary RSS",
+                    "url": "https://cn.engadget.com/rss.xml"
+                },
+                {
+                    "title": "是Kiri的博客呢",
+                    "url": "https://kirikira.moe/rss/"
+                },
+                {
+                    "title": "老高與小茉 Mr & Mrs Gao 的 Youtube 视频",
+                    "url": "http://rsshub.app/youtube/channel/UCMUnInmOkrWN4gof9KlhNmQ"
+                },
+                {
+                    "title": "FroggyChiu 的 Youtube 视频",
+                    "url": "http://rsshub.app/youtube/user/FroggyChiu/"
+                },
+                {
+                    "title": "数字尾巴",
+                    "url": "https://www.dgtle.com/rss/dgtle.xml"
+                },
+                {
+                    "title": "挖站否-挖掘建站的乐趣",,
+                    "url": "https://wzfou.com/feed/"
+                },
+                {
+                    "title": "反波 Antiwave",,
+                    "url": "https://antiwave.tech/feed/podcast/"
+                },
+                {
+                    "title": "Reez 'Zimmer",
+                    "url": "https://raffz.com/rss.xml"
+                },
+                {
+                    "title": "Newlearnerの自留地 - Telegram 频道",
+                    "url": "http://rsshub.app/telegram/channel/NewlearnerChannel"
+                },
+                {
+                    "title": "Stories by 人生百味 on Medium",
+                    "url": "https://medium.com/feed/@welcome_92365"
+                },
+                {
+                    "title": "极客公园",
+                    "url": "https://www.geekpark.net/rss"
+                }
   ]
 }
